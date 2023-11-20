@@ -1,5 +1,7 @@
 [{
-"previously": {},
+"previously": {"previously": {},
+"text": "Ceci est un autre test",
+"mediaSrc": ""},
 "text": "Ceci est un autre test",
 "mediaSrc": ""
 }]
